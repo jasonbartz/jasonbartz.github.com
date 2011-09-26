@@ -1,0 +1,49 @@
+/* Jasonbartz.com Stylesheet */
+
+body {
+    background-color:#FFFAD5;
+    color:#105B63;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+a, a:link, a:visited {
+    color:#F6F6F6;
+    
+}
+
+a:active, a:hover {
+    color:#970A09;
+}
+
+#container {
+    width:340px;
+    margin:0 auto;
+}
+
+#desc {
+    text-align:right;
+    padding:50px 0 0 0;
+}
+#links {
+    
+}
+#links a {
+    display:block;
+    width:25%;
+}
+footer {
+    position:absolute;
+    width: 100%;
+    bottom:0px;
+    left:0px;
+    background-color:#105B63;
+    color:#FFFAD5;
+    height:28px;
+    text-align:right;
+    padding-top:5px;
+    font-size:10px;
+}
+footer p {
+    margin:0;
+    padding-right:20px;
+}
